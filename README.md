@@ -3,4 +3,5 @@
 Meu Nome é Carlos
 
 - Estou Estudando No Alura;
-- Estou desenvolvendo
+- Estou desenvolvendo Na linguagem JavaScript;
+- Utilizo Esse espaço para mimha organizaçao e compartilhamento dos meus projetos
