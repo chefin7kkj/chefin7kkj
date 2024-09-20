@@ -2,7 +2,7 @@
 
 Meu Nome é Carlos
 
-- Estou Estudando Node [Alura];
+- Estou Estudando N [Alura];
 - Estou desenvolvendo Na linguagem JavaScript;
 - Utilizo Esse espaço para mimha organizaçao e compartilhamento dos meus projetos Desenvolvidos
 
