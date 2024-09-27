@@ -1,4 +1,4 @@
-##  bem vindas[os] ao meu perfil 🎭
+##  bem vindos[as] ao meu perfil 🎭
 
 Meu Nome é Carlos
 
